@@ -1,0 +1,42 @@
+{
+"colorArray":[ "#364C62", "#F1C40F", "#E67E22", "#E74C3C", "#9B59B6", "#95A5A6", "#16A085", "#27AE60", "#2980B9", "#8E44AD", "#2C3E50", "#F39C12", "#D35400", "#C0392B", "#BDC3C7","#1ABC9C", "#2ECC71", "#E87AC2", "#3498DB", "#9B59B6", "#7F8C8D"],
+
+"segmentValuesArray" : [
+  {"probability":25, "type": "string", "value": "NO^NUGGETS", "win": true, "resultText": "SOMETIME YOU JUST NEED A REAL LOSER TO MAKE WINNING FEEL GOOD!", "userData": {"score":0}},
+  {"probability":15, "type": "string", "value": "MINUS 500^NUGGETS", "win": true, "resultText": "OOOO... LOSING STINGS LIKE A BITCH!", "userData": {"score":500}},
+  {"probability":25, "type": "string", "value": "50^NUGGETS", "win": true, "resultText": "OH LOOK, 50 NUGGETS FOR ALL!", "userData": {"score":50}},
+  {"probability":2, "type": "string", "value": "SHENMUE^I & II", "win": true, "resultText": "IT'S FRIGGEN RAFFLE TIME!", "userData": {"score":"raf"}},
+  {"probability":25, "type": "string", "value": "250^NUGGETS", "win": true, "resultText": "CONGRATS, EVERYONE GETS 250 NUGGETS", "userData": {"score":250}},
+  {"probability":19, "type": "string", "value": "9001^NUGGETS", "win": true, "resultText": "THESE NUGGETS ARE OVER 9000!", "userData": {"score":9001}},
+  {"probability":24, "type": "string", "value": "150^NUGGETS", "win": true, "resultText": "YOU SHOULD FEEL GOOD, YOU JUST GOT 150 NUGGETS", "userData": {"score":150}}
+],
+
+  "svgWidth": 1024,
+  "svgHeight": 768,
+  "wheelStrokeColor": "#D0BD0C",
+  "wheelStrokeWidth": 18,
+  "wheelSize": 700,
+  "wheelTextOffsetY": 80,
+  "wheelTextColor": "#EDEDED",  
+  "wheelTextSize": "2.3em",
+  "wheelImageOffsetY": 40,
+  "wheelImageSize": 50,
+  "centerCircleSize": 360,
+  "centerCircleStrokeColor": "#F1DC15",
+  "centerCircleStrokeWidth": 12,
+  "centerCircleFillColor": "#EDEDED",
+  "segmentStrokeColor": "#E2E2E2",
+  "segmentStrokeWidth": 4,
+  "centerX": 512,
+  "centerY": 384,  
+  "hasShadows": false,
+  "numSpins": 100 ,
+  "spinDestinationArray":[],
+  "minSpinDuration":16,
+  "gameOverText":"GAME OVER",
+  "invalidSpinText":"INVALID SPIN. PLEASE SPIN AGAIN.",
+  "introText":"GET READY <span style='color:#F282A9;'>2</span> WIN!",
+  "hasSound":true,
+  "gameId":"9a0232ec06bc431114e2a7f3aea03bbe2164f1aa",
+  "clickToSpin":true
+}

@@ -1,0 +1,28 @@
+{
+    "output_file": "Settings/settings.json",
+    "Command": {
+      "type": "textbox",
+      "value": "!ping",
+      "label": "Command",
+      "tooltip": "The command that will be responded to.",
+      "group": "Core"
+    },
+    "Permission": {
+      "type": "dropdown",
+      "value": "everyone",
+      "items": ["everyone","moderator","subscriber","user_specific","editor"],
+      "label": "Permission",
+      "tooltip": "Who is able to use the command",
+      "group": "Core"
+    },
+    "Cooldown": {
+      "type": "slider",
+      "value": 60,
+      "min": 0,
+      "max": 900,
+      "ticks": 5,
+      "label": "Cooldown (seconds)",
+      "tooltip": "How long the command should go on cooldown for",
+      "group": "Core"
+    }
+  }

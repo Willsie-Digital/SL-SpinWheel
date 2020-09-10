@@ -1,0 +1,43 @@
+{
+"colorArray":[ "#222222", "#111111"],
+
+"segmentValuesArray" : [
+  {"probability":25, "type": "string", "value": "NO^KIX", "win": true, "resultText": "NO KIX FOR YOU!", "userData": {"score":0}},
+  {"probability":15, "type": "string", "value": "YOU LOSE 500^KIX", "win": true, "resultText": "THERE'S NOTHING WORSE THAN LOSING YOUR KIX", "userData": {"score":-500}},
+  {"probability":25, "type": "string", "value": "50^KIX", "win": true, "resultText": "NICE KIX", "userData": {"score":50}},
+  {"probability":25, "type": "string", "value": "250^KIX", "win": true, "resultText": "LOOK AT ALL THOSE KIX", "userData": {"score":250}},
+  {"probability":15, "type": "string", "value": "1,000,000^KIX", "win": true, "resultText": "THAT'S MORE KIX THAN MICHAEL JORDAN", "userData": {"score":1000000}},
+  {"probability":19, "type": "string", "value": "9001^KIX", "win": true, "resultText": "THAT'S MORE KIX THAN MICHAEL JORDAN", "userData": {"score":9001}},
+  {"probability":25, "type": "string", "value": "250^KIX", "win": true, "resultText": "LOOK AT ALL THOSE KIX", "userData": {"score":250}}, 
+  {"probability":24, "type": "string", "value": "150^KIX", "win": true, "resultText": "EVERYONE GET'S 150 KIX", "userData": {"score":150}}
+],
+
+  "svgWidth": 1024,
+  "svgHeight": 768,
+  "wheelStrokeColor": "#EDEDED",
+  "wheelStrokeWidth": 18,
+  "wheelSize": 700,
+  "wheelTextOffsetY": 80,
+  "wheelTextColor": "#EDEDED",  
+  "wheelTextSize": "2.3em",
+  "wheelImageOffsetY": 40,
+  "wheelImageSize": 50,
+  "centerCircleSize": 360,
+  "centerCircleStrokeColor": "#EDEDED",
+  "centerCircleStrokeWidth": 12,
+  "centerCircleFillColor": "#ededed",
+  "segmentStrokeColor": "#ededed",
+  "segmentStrokeWidth": 4,
+  "centerX": 512,
+  "centerY": 384,  
+  "hasShadows": false,
+  "numSpins": 100 ,
+  "spinDestinationArray":[],
+  "minSpinDuration":16,
+  "gameOverText":"GAME OVER",
+  "invalidSpinText":"INVALID SPIN. PLEASE SPIN AGAIN.",
+  "introText":"GET READY <span style='color:#e5ac00;'>2</span> WIN!",
+  "hasSound":true,
+  "gameId":"9a0232ec06bc431114e2a7f3aea03bbe2164f1aa",
+  "clickToSpin":true
+}

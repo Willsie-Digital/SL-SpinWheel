@@ -1,0 +1,5 @@
+﻿{
+  "Command": "!ping",
+  "Permission": "everyone",
+  "Cooldown": 600
+}
